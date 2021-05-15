@@ -1,3 +1,3 @@
 # leetcode
 ## LeetCode Problems' Solutions
-LeetCodeを使ってアルゴリズムの勉強
+LeetCodeを使っい、アルゴリズムの勉強を記録する
