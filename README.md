@@ -1,5 +1,5 @@
 # leetcode
-LeetCodeを使っい、アルゴリズムの勉強を記録する
+LeetCodeを使っい、アルゴリズムの勉強を記録する　(使用言語は主にPythonとJava)
 
 ## Hash table（ハッシュテーブル）
 [0001](https://github.com/zzq-s/leetcode/tree/main/0001)
