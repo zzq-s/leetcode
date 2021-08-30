@@ -13,5 +13,5 @@ LeetCodeを使っい、アルゴリズムの勉強を記録する　(使用言�
 [0003](https://github.com/zzq-s/leetcode/tree/main/0003)
 [0209](https://github.com/zzq-s/leetcode/tree/main/0209)
 
-## Binary Search
+## Binary Search（二分探索）
 [0704](https://github.com/zzq-s/leetcode/tree/main/0704)
